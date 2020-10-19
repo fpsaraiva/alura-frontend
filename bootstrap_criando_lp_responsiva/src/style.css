@@ -8,6 +8,10 @@
   font-family: 'Pacifico', cursive;
 }
 
-.title-font-color {
+.title-font-color-brown {
   color: #C68B19;
+}
+
+.title-font-color-brown-dark {
+  color: #150E08;
 }
