@@ -1,3 +1,13 @@
-h1 {
-  margin-top: 100px;
+.carousel-image {
+  object-fit: cover;
+  object-position: 0 50%;
+  height: 400px;
+}
+
+.title-font {
+  font-family: 'Pacifico', cursive;
+}
+
+.title-font-color {
+  color: #C68B19;
 }
