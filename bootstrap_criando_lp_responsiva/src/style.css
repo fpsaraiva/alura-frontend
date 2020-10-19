@@ -1,3 +1,7 @@
+.card-width {
+  max-width: 18rem;
+}
+
 .carousel-image {
   object-fit: cover;
   object-position: 0 50%;
@@ -14,4 +18,18 @@
 
 .title-font-color-brown-dark {
   color: #150E08;
+}
+
+.card-image {
+  object-fit: cover;
+  height: 180px;
+}
+
+.button-color-brown-dark {
+  background-color: #150E08;
+  color: #ffffff;
+}
+
+.border-color-brown-dark {
+  border-color: #150E08;
 }
