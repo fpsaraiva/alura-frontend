@@ -11,3 +11,8 @@ console.log(`Meu nome é ${primeiroNome} ${sobrenome}`);
 const nomeCompleto = primeiroNome + sobrenome;
 
 console.log(nomeCompleto);
+
+let idadeAtual; //declarar
+idadeAtual = 34; //atribuir
+idadeAtual = idadeAtual + 1;
+console.log(idadeAtual);
